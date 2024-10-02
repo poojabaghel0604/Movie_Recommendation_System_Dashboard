@@ -1,5 +1,3 @@
-Here’s a sample README content for your movie recommendation system project using TMDB data and Streamlit:
-
 ---
 
 # Movie Recommendation System 🎬📽️
@@ -79,11 +77,11 @@ To run this project locally, follow the steps below:
 ## 📸 Screenshots
 
 ### Main Interface
-!Screenshot (78).png
-!Screenshot (77).png
+![Recommendations](Screenshot (77).png)
+![Recommendations](Screenshot (78).png)
 
 ### Sample Recommendation
-![Recommendations](https://github.com/yourusername/movie-recommendation-system/screenshots/recommendations.png)
+![Recommendations](Screenshot (77).png)
 
 ## 🛠️ Technologies Used
 - **Python**: Core language used for development.
@@ -112,7 +110,3 @@ Contributions are welcome! Feel free to open a pull request or submit issues.
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
 ---
-
-You can modify and enhance this README based on any specific details you'd like to highlight or explain further. Make sure to include your actual screenshot images in the project folder and update the screenshot URLs in the README to the correct paths in your repository.
-
-Would you like me to generate any specific images to include, like an illustration of the recommendation system's workflow?
