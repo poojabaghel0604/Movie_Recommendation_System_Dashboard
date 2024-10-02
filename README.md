@@ -77,11 +77,15 @@ To run this project locally, follow the steps below:
 ## 📸 Screenshots
 
 ### Main Interface
-![Recommendations](Screenshot (77).png)
-![Recommendations](Screenshot (78).png)
+<p align="center">
+  <img src="" width="350" title="hover text">
+  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+</p>
+![Recommendations](https://github.com/poojabaghel0604/Movie_Recommendation_System_Dashboard/blob/main/Screenshot%20(77).png)
+![Recommendations](https://github.com/poojabaghel0604/Movie_Recommendation_System_Dashboard/blob/main/Screenshot%20(78).png)
 
 ### Sample Recommendation
-![Recommendations](Screenshot (77).png)
+![Recommendations](https://github.com/poojabaghel0604/Movie_Recommendation_System_Dashboard/blob/main/Screenshot%20(78).png)
 
 ## 🛠️ Technologies Used
 - **Python**: Core language used for development.
